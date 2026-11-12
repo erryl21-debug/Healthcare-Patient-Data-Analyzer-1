@@ -1,0 +1,11 @@
+patient_id,age,department,visit_cost
+P001,24,Primary Care,130.00
+P002,51,Cardiology,425.50
+P003,39,Primary Care,155.00
+P004,62,Orthopedics,310.75
+P005,30,Primary Care,120.00
+P006,47,Cardiology,390.00
+P007,56,Orthopedics,275.25
+P008,28,Primary Care,140.00
+P009,44,Cardiology,410.00
+P010,35,Orthopedics,260.50
